@@ -19,17 +19,17 @@ You can safely download versions of Java here: **https://www.oracle.com/java/tec
 The simplest way to insall this project is to clone the repository as follows in your terminal:
 
 '''
-# Cloning the repository:
+//Cloning the repository:
 git clone https://github.com/username/projectname.git
 
-# Navigating to the folder location:
+//Navigating to the folder location:
 cd projectname
 
-# Compiling the game:
+//Compiling the game:
 
 javac Minesweeper.java
 
-# Running the game:
+//Running the game:
 
 java Minesweeper
 '''
