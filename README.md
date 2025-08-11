@@ -19,7 +19,7 @@ You can safely download versions of Java here: **https://www.oracle.com/java/tec
 The simplest way to install this project is to clone the repository as follows in your terminal:
 
 ### Cloning the repository:
-```git clone https://github.com/username/projectname.git```
+```git clone https://github.com/EmsterH-Shot/MineSweeperGame.git```
 
 ### Navigating to the folder location:
 ```cd projectname```

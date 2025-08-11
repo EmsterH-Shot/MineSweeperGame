@@ -161,6 +161,7 @@ public class Minesweeper {
             while (rowActual > 4) {
                 System.out.println("Invalid input. Please try again.");
                 rowInput = scan.next();
+                rowInputUppercase = rowInput.toUpperCase();
                 rowActual = validateInput(rowInputUppercase);
             }
 
