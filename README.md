@@ -22,7 +22,7 @@ The simplest way to install this project is to clone the repository as follows i
 ```git clone https://github.com/EmsterH-Shot/MineSweeperGame.git```
 
 ### Navigating to the folder location:
-```cd projectname```
+```cd path/to/folder/with/Minesweeper.java```
 
 ### Compiling the game:
 ```javac Minesweeper.java```
@@ -31,6 +31,8 @@ The simplest way to install this project is to clone the repository as follows i
 ```java Minesweeper```
 
 # How to Play
+
+<img width="725" height="676" alt="MinesweeperGameplay" src="https://github.com/user-attachments/assets/65ce631d-34bb-42e3-8534-56f7deaec93c" />
 
 For those unfamiliar with the rules of Minesweeper, here's a quick rundown:
 
