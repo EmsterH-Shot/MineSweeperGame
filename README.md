@@ -11,7 +11,7 @@ This is a text-based version of Minesweeper built to run in the terminal. I crea
 This game is meant to be run in the terminal (instructions to follow).
 
 You will need Java installed on your computer in order to run the game. 
-Make sure you have **Java Version 22.0.2**
+Make sure you have **Java Version 22.0.2**.
 You can safely download versions of Java here: **https://www.oracle.com/java/technologies/downloads/**
 
 ## Installing and Running the Game
