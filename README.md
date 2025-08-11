@@ -46,3 +46,7 @@ For example, to search the very bottom-right space, you would type ```E``` or ``
 -**You only have 3 lives**, so be careful about which spaces you select!
 
 -Once you hit three bombs, it's GAME OVER. But if you find the flag before then, you WIN!
+
+## License
+
+**https://mit-license.org/**
